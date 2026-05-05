@@ -1,0 +1,45 @@
+#header{
+    background-color: rgb(19, 54, 116);
+}
+#info{
+    background-color: rgb(255, 255, 255);
+    margin: 30px;
+    padding: 0px;
+    height: 300px;
+}
+#quote{
+    background-color: rgb(142, 142, 140);
+    display : flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#contact{
+    background-color: rgb(255, 255, 255);
+}
+.infoimg{
+    width: 102px;
+    height: 110px;
+    border-radius: 9%;   
+    
+}
+.infocontainer1{
+    margin: 5px;
+    padding: 10px;
+    background-color: rgb(255, 186, 186);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.infocontainer{
+    background-color: #f7ff89;
+    padding: 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.infotext{
+    display: flex;
+    justify-content: center;
+}
